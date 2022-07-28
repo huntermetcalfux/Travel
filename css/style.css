@@ -5,7 +5,7 @@ body {
 
 
 #hero {
-    background-image: url("https://www.nasa.gov/sites/default/files/styles/full_width/public/thumbnails/image/web_first_images_release.png?itok=g21NrdRw");
+    background-image: url("https://www.cpre.org.uk/wp-content/uploads/2021/08/210816_G40097_stargazing-at-Dunstanburgh-Northumb_credit-Northern-Nights-Photography_Alamy_web.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position:center;
@@ -90,6 +90,7 @@ nav .hamburger {
 
 
 #adventure .adventure-card {
+background-image: url("https://www.nasa.gov/sites/default/files/styles/full_width/public/thumbnails/image/web_first_images_release.png?itok=g21NrdRw");
 background-image: url("https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/hubble_ngc3318_potw2203a_0.png");
 background-size:cover ;
 height:565px;
@@ -137,7 +138,7 @@ h4 {
 
 #locations {
     padding:200px 0px 100px;
-    background-image:url("../images/hollywood.png");
+    background-image:url("https://uploads.mwp.mprod.getusinfo.com/uploads/sites/54/2022/02/Image-for-Rejoining-Paris-Agreement.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
 
